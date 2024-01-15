@@ -1,5 +1,5 @@
-//author: Barthe
-//email: bugboy@gmx.com
+<!--author: Barthe-->
+//email: hb@gmail.com
 
 //Importing _sass files
 
@@ -9,7 +9,7 @@
 
 //end of importing
 
-%box-shadow {
+box-shadow {
 
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -24,7 +24,7 @@
 }
 
 %box-shadow-container {
-    @extend %boxshadow;
+    extend %boxshadow;
     background-color: #fff;
     padding: 50px
 }
@@ -164,7 +164,7 @@ p {
 
 }
 
-// Loading Bar Animation
+<!--Loading Bar Animation-->
 
 $background-color: #4684ee;
 $loader-color: dodgerblue;
