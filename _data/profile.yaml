@@ -10,8 +10,9 @@ description: > # This means ignore new line until
 
 social:
   accounts: linkedin,github # add new account here and link in following
-  github: https://github.com/HBarthe
   linkedin: https://linkedin.com/in/hernanbarthe
+  github: https://github.com/HBarthe
+  
   
 
 
