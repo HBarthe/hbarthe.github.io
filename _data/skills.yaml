@@ -1,10 +1,10 @@
 topskills:
-  - name: Elixir/Phoenix
+  - name: Delphix
     level: Expert
     desc: >
-      Scalable and maintainable applications API Development and reliable package developer at Hex. Command line application
-      development and Distributed Code development across remote nodes. Prominent in GenServer Processes and Supervisor
-      Control over the GenServer in an application building process.
+      Delphix is an integrated platform that virtualizes, protects and manages data from private facilities, in the cloud and in hybrid IT environments.
+      Preotecting non-production environments is a must and with Delphix your data is protected while referential integrity is ensaured. 
+      I have already delivered some data masking and virtualization projects acrross diferent financial services and insurance companies.
 
   - name: JavaScript/NodeJs
     level: Advanced
@@ -25,7 +25,6 @@ otherskills:
   - C/C++
   - SQL Server
   - Python
-  - Delphix
   - GitHub
   - Visual Studio Code
   - Google Cloud databases
